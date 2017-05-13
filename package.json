@@ -1,0 +1,23 @@
+{
+  "name": "vitalii_hlushkov-portfolio-freecodecamp",
+  "version": "1.0.0",
+  "description": "Pet project as a part of the freecodecamp course.",
+  "main": "index.html",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitalii-Hlushkov/portfolio-freecodecamp.git"
+  },
+  "keywords": [
+    "portfolio",
+    "freecodecamp"
+  ],
+  "author": "Vitalii Hlushkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitalii-Hlushkov/portfolio-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/Vitalii-Hlushkov/portfolio-freecodecamp#readme"
+}
